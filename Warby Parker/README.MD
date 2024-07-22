@@ -15,3 +15,7 @@ Methodology:
 - Conversion rate calculation
 - A/B testing
 - Sales analysis and visualization
+
+Tools and Technologies:
+- SQL
+- Data analysis and visualization tools (e.g., Tableau, Power BI)
