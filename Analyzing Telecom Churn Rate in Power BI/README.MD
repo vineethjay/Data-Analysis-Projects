@@ -8,3 +8,5 @@ Tools Used: Power BI
 
 Conclusion:
 Analyzing churn rate data provides actionable insights into customer behaviour and preferences. By addressing factors contributing to churn, businesses can implement targeted strategies to improve retention, enhance customer satisfaction, and achieve sustainable growth.
+
+Link to the project: https://medium.com/@vineethjaya1/analyzing-telecommunication-churn-rate-in-power-bi-66ee0ee14736
