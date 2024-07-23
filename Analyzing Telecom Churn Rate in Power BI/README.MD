@@ -5,3 +5,6 @@ Project Objective:
 This project aims to analyze and mitigate the current customer churn rate by identifying key factors contributing to churn. By leveraging insights from data analysis, the goal is to implement targeted retention strategies. Ultimately, the project aims to reduce churn, enhance customer satisfaction, and foster revenue stability and growth for the telecommunications company
 
 Tools Used: Power BI
+
+Conclusion:
+Analyzing churn rate data provides actionable insights into customer behaviour and preferences. By addressing factors contributing to churn, businesses can implement targeted strategies to improve retention, enhance customer satisfaction, and achieve sustainable growth.
